@@ -49,7 +49,7 @@ box-shadow: 5px 4px 15px 5px rgba(0, 0, 0, 0.150);
     margin-right: 20px;
     height: inherit;
     background-color: transparent;
-    width: 400px;
+    width: 470px;
     display: flex;
     align-items: center;
     flex-direction: row;
@@ -89,6 +89,7 @@ box-shadow: 5px 4px 15px 5px rgba(0, 0, 0, 0.150);
    border: 0.5px solid gray;
    font-family: "Montserrat", sans-serif;
     padding: 0px 15px;
+    width: 180px;
     border-radius: 5px;
 }
 

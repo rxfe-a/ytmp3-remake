@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         const target = (data.TARGET_FORMAT || 'mp3').trim().toLowerCase();
 
         if (target === 'mp4') {
-            console.log("Prefetching MP4 target..."); //no clue if this works saw it on tiktok
+            console.log("Prefetching MP4 target...");
             targetUrl = F_MP4;
             const link = document.createElement('link');
             link.rel = 'prefetch';
